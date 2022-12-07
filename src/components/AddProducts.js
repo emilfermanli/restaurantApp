@@ -235,7 +235,7 @@ function AddProduct() {
         {currentTableData.status !== 0 ? <></> : <div className={style.endOrders}>
 
           <Button variant="outlined" color="error" onClick={() => handleOpen()}>
-            Sonlandir
+            Sonlandır
           </Button>
         </div>}
         

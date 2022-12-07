@@ -24,12 +24,12 @@ export const tablesData = createSlice({
         }
       }
 
-      console.log(sortFilter)
+
 
 
       
 
-      state.tableStatus = [...state.tableStatus,action.payload]
+      state.tableStatus = [...state.tableStatus,action.payload].reverse()
 
       
     },
