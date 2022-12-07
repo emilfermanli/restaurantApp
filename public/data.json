@@ -1,0 +1,75 @@
+{
+  "tables":[
+    {
+      "id":1,
+      "name":"masa-1"
+    },
+    {
+      "id": 2,
+      "name": "masa-2"
+    },
+    {
+      "id": 3,
+      "name": "masa-3"
+    },
+    {
+      "id": 4,
+      "name": "masa-4"
+    },
+    {
+      "id": 5,
+      "name": "masa-5"
+    },
+    {
+      "id": 6,
+      "name": "masa-6"
+    }
+  ],
+  "waiters":[
+    {
+      "id":1,
+      "name":"Ruslan"
+    },
+    {
+      "id": 2,
+      "name": "Leyla"
+    },
+    {
+      "id": 3,
+      "name": "Teymur"
+    },
+    {
+      "id": 4,
+      "name": "Natiq"
+    }
+    
+  ],
+  "foods":[
+    {
+      "id":1,
+      "name":"Dolma",
+      "price":12
+    },
+    {
+      "id": 2,
+      "name":"Plov",
+      "price":8
+    },
+    {
+      "id": 3,
+      "name":"Sezar salatı",
+      "price":7
+    },
+    {
+      "id": 4,
+      "name":"Nar qovurma",
+      "price": 18
+    },
+    {
+      "id": 5,
+      "name":"Kabab",
+      "price":10
+    }
+  ],
+  "orders":[]
+}

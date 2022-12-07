@@ -1,0 +1,55 @@
+.orderTable{
+  margin-top: 60px;
+
+  .orderPageHeader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+
+    h2{
+      font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+  }
+  .addOrderForm{
+    padding: 15px;
+    div { 
+      margin-bottom: 30px;
+    }
+
+  }
+  .addProductDialog{
+    height: 400px;
+  }
+}
+
+.addproductTable{
+  padding-left: 30px;
+  padding-right: 30px;
+  
+}
+
+.counter {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.counterBox{
+  margin-top: 30px;
+  h4{
+    margin: 0px 20px;
+  }
+ 
+}
+
+.priceInfo{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.endOrders{
+  text-align: end;
+  padding: 15px;
+}
